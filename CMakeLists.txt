@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.15)
 
-set(ProjectName "CBSSolution")
+set(ProjectName "CBS_Solution")
 
 project(${ProjectName})
 
